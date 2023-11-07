@@ -1,4 +1,3 @@
-# PrisonBreak
 # Prison Break Game
 
 Prison Break is an exciting arcade game developed in Java using Android Studio, reminiscent of the classic Frogger game. In this thrilling adventure, you step into the shoes of a daring prisoner attempting to escape from a high-security prison. Your mission is to navigate through a busy road and a hazardous river, crossing moving logs and avoiding obstacles to make your way to freedom.
@@ -45,7 +44,7 @@ To play **Prison Break**, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/prison-break.git
+   git clone https://github.com/your-username/PrisonBreak.git
    ```
 
 2. Open the project in Android Studio.
